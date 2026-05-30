@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Federated Learning Framework with Differential Privacy
 
 A production-inspired simulation of Federated Learning across 10 virtual clients, 
@@ -29,3 +30,6 @@ to provide mathematical privacy guarantees for client data.
 ---
 
 ## Project Structure
+=======
+# federated-learning-framework
+>>>>>>> c12747b322a028cea1de28c214e3e1ac0cc45d85
